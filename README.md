@@ -1,25 +1,27 @@
 # Calculadora em Python
 
-Projeto de uma calculadora em Python com interface de terminal.
+Projeto simples de calculadora desenvolvido em Python para operações básicas.
 
 ## Funcionalidades
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
-- Validação de entrada
-- Tratamento de divisão por zero
 
 ## Tecnologias
-- Python
+- Python 3
 
 ## Como executar
 
-Clone o repositório: git clone
-https://github.com/ItaloSSDeveloper/calculadora-python.git
+1. Clone o repositório:
+git clone https://github.com/ItaloSSDeveloper/calculadora-python.git
 
-cd calculadora-python python main.py
+2. Entre na pasta:
+cd calculadora-python
+
+3. Execute:
+python calculadora.py
 
 ## Autor
 Ítalo Soares  
-https://github.com/ItaloSSDeveloper
+GitHub: https://github.com/ItaloSSDeveloper
